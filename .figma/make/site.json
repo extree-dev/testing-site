@@ -1,0 +1,10 @@
+{
+  "description": "Create stunning digital business cards effortlessly, showcasing your professional profile and contact information in a sleek, modern format.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
